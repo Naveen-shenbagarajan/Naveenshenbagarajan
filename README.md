@@ -1,6 +1,6 @@
 👋 Hey there! I'm Naveen, a recent graduate with a degree in Computer Science. Passionate about learning and dedicated to teamwork, I'm ready to apply my technical knowledge to real-world challenges.
 
-🛠️ Skills:
+## 🛠️ Skills:
 
 Proficient in C language, CCNA, Java, HTML, SQL, data annotation in ai/ml, video labeling, image labeling and Networking Concepts.
 Experienced with Operating Systems like Windows and Linux.
