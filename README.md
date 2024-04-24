@@ -2,7 +2,7 @@
 
 🛠️ Skills:
 
-Proficient in C language, CCNA, Java, HTML, SQL, and Networking Concepts.
+Proficient in C language, CCNA, Java, HTML, SQL, data annotation in ai/ml, video labeling, image labeling and Networking Concepts.
 Experienced with Operating Systems like Windows and Linux.
 Business design specialist adept at crafting engaging presentations using advanced PowerPoint features.
 
