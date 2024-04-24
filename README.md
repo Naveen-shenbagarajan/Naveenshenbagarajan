@@ -23,3 +23,5 @@ Worked as a Business Design Specialist from May 2023 to December 2023, collabora
 
 Feel free to connect with me here or on LinkedIn!
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveen-shenbagarajan)](https://github.com/anuraghazra/github-readme-stats)
